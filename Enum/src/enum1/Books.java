@@ -2,7 +2,7 @@ package enum1;
 
 public enum Books {
 
-	Corejava(45.33F), AdvJava(66.77F), spring(999.33F);
+	Corejava(45.33F), AdvJava(66.77F), spring(999.33F),oracle(588.55f);
 
 	public float price;
 
